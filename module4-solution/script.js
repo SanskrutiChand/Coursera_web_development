@@ -1,0 +1,4 @@
+ sanskrutiGreeter.sayHello();
+ johnGreeter.sayGoodBye();
+
+ 	
